@@ -4,9 +4,15 @@
 
 body {
   padding-bottom: 40px;
-  color: #5a5a5a;
+  color: rgb(48,48,48) /*#5a5a5a*/;
+  background-color:#CCCCFF;
+  background-color:#CCCCCC;
+  color: #003366;
 }
 
+.glyphicon{
+  font-size:140px;
+}
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
@@ -92,6 +98,9 @@ body {
   letter-spacing: -1px;
 }
 
+hr{
+  border-top-color:#898989;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
